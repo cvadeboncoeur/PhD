@@ -1,4 +1,4 @@
-#Analyses of PhD data
+#Analyses of PhD data - multiple regression of variables correlated with weight change
 
 #Bringing in the data 
 mydataT123Unis = read.csv("Data_0303_FinalSet.csv")  # read csv file 
